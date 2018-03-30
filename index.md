@@ -5,4 +5,4 @@
 layout: default
 ---
 
-[first](_extras/first)
+[first](extras/first)
